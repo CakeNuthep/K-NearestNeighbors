@@ -122,8 +122,8 @@
             this.textBox_filePath.Name = "textBox_filePath";
             this.textBox_filePath.Size = new System.Drawing.Size(455, 20);
             this.textBox_filePath.TabIndex = 1;
-            this.textBox_filePath.Text = "D:\\LearningC#\\page\\K_Nearest Neighbor\\K-nearest neighbors\\K-nearest neighbors\\Dat" +
-    "a\\data.csv";
+            this.textBox_filePath.Text = "D:\\LearningC#\\page\\K_Nearest Neighbor\\K Nearest Neighbors\\K-nearest neighbors\\K-n" +
+    "earest neighbors\\Data\\data.csv";
             // 
             // button_brows
             // 

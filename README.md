@@ -1,4 +1,4 @@
-"# K-NearestNeighbors" 
+# K-NearestNeighbors
 เป็นโปรแกรมบน WindowForm ที่เขียนด้วย ภาษา C# เพื่อใช้ในการลองเขียน Algorithm ของ Machine learning ที่เรียกว่า K-Nearest Neighbors Algorithm
 
 ใช้ Library ที่ชื่อว่า LiveChart ในการวาดกราฟ -สามารถดูวิธีการลงได้ที่ https://www.youtube.com/watch?v=NbTnLihviq8&t=180s

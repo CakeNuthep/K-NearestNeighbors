@@ -22,3 +22,27 @@ D:\LearningC#\page\K_Nearest Neighbor\K-nearest neighbors\K-nearest neighbors\bi
 D:\LearningC#\page\K_Nearest Neighbor\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.WinForms.xml
 D:\LearningC#\page\K_Nearest Neighbor\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.Wpf.pdb
 D:\LearningC#\page\K_Nearest Neighbor\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.Wpf.xml
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\K-nearest neighbors.exe.config
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\K-nearest neighbors.exe
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\K-nearest neighbors.pdb
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\CsvHelper.dll
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.dll
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.WinForms.dll
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.Wpf.dll
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\System.ValueTuple.dll
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\CsvHelper.xml
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.pdb
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.xml
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.WinForms.pdb
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.WinForms.xml
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.Wpf.pdb
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\LiveCharts.Wpf.xml
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\bin\Debug\System.ValueTuple.xml
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\obj\Debug\K-nearest neighbors.csprojAssemblyReference.cache
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\obj\Debug\K_nearest_neighbors.Form1.resources
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\obj\Debug\K_nearest_neighbors.Properties.Resources.resources
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\obj\Debug\K-nearest neighbors.csproj.GenerateResource.cache
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\obj\Debug\K-nearest neighbors.csproj.CoreCompileInputs.cache
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\obj\Debug\K-nearest neighbors.csproj.CopyComplete
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\obj\Debug\K-nearest neighbors.exe
+D:\LearningC#\page\K_Nearest Neighbor\K Nearest Neighbors\K-nearest neighbors\K-nearest neighbors\obj\Debug\K-nearest neighbors.pdb
